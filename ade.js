@@ -1,0 +1,4 @@
+const addSomething= (x, y, z) =>{
+ return x - y + z 
+}
+module.exports = addSomething;
